@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: city_data
+    tables:
+      - name: Cities
+      - name: location

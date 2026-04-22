@@ -1,0 +1,5 @@
+version: 2
+
+seeds:
+  - name: petshop
+    description: This is the pet details
