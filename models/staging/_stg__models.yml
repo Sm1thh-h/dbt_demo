@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: stg_city__model
+    description: This is a mirror of the source data
+  - name: _stg__pet_model
+    description: This is the pet details
