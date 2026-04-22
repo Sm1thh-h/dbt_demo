@@ -15,6 +15,5 @@ select ID,
 	   SALEPRICE,
 	   QUANTITY
  from {{ ref('petshop') }}
- order by ID asc
 
 {% endsnapshot %}
